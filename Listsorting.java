@@ -47,3 +47,16 @@ class NameList
     }
 
 }
+
+output:
+Code for sorting the input name in ascending order ---
+Enter the numbers of names: 2
+
+Enter the names -----------
+Enter the name 1:  568464
+
+Enter the name 2:  6780956
+
+Sorted names are ---
+568464
+6780956
